@@ -1,0 +1,10 @@
+C:\Users\Asus\Desktop\Comp212_Solutions\Marc-DeGuzman_COMP212_Sec002_Lab01_Exercise03\LinkedListLibraryTest\bin\Debug\LinkedListLibraryTest.exe.config
+C:\Users\Asus\Desktop\Comp212_Solutions\Marc-DeGuzman_COMP212_Sec002_Lab01_Exercise03\LinkedListLibraryTest\bin\Debug\LinkedListLibraryTest.exe
+C:\Users\Asus\Desktop\Comp212_Solutions\Marc-DeGuzman_COMP212_Sec002_Lab01_Exercise03\LinkedListLibraryTest\bin\Debug\LinkedListLibraryTest.pdb
+C:\Users\Asus\Desktop\Comp212_Solutions\Marc-DeGuzman_COMP212_Sec002_Lab01_Exercise03\LinkedListLibraryTest\bin\Debug\LinkedListLibrary.dll
+C:\Users\Asus\Desktop\Comp212_Solutions\Marc-DeGuzman_COMP212_Sec002_Lab01_Exercise03\LinkedListLibraryTest\bin\Debug\LinkedListLibrary.pdb
+C:\Users\Asus\Desktop\Comp212_Solutions\Marc-DeGuzman_COMP212_Sec002_Lab01_Exercise03\LinkedListLibraryTest\obj\Debug\LinkedListLibraryTest.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\Comp212_Solutions\Marc-DeGuzman_COMP212_Sec002_Lab01_Exercise03\LinkedListLibraryTest\obj\Debug\LinkedListLibraryTest.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Comp212_Solutions\Marc-DeGuzman_COMP212_Sec002_Lab01_Exercise03\LinkedListLibraryTest\obj\Debug\LinkedListLibraryTest.csproj.CopyComplete
+C:\Users\Asus\Desktop\Comp212_Solutions\Marc-DeGuzman_COMP212_Sec002_Lab01_Exercise03\LinkedListLibraryTest\obj\Debug\LinkedListLibraryTest.exe
+C:\Users\Asus\Desktop\Comp212_Solutions\Marc-DeGuzman_COMP212_Sec002_Lab01_Exercise03\LinkedListLibraryTest\obj\Debug\LinkedListLibraryTest.pdb

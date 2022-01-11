@@ -1,0 +1,14 @@
+C:\Users\Asus\Desktop\Comp212_Solutions\Marc-DeGuzman_COMP212-Sec002_Lab05\Marc-DeGuzman_Exercise02\obj\Debug\Marc-DeGuzman_Exercise02.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Comp212_Solutions\Marc-DeGuzman_COMP212-Sec002_Lab05\Marc-DeGuzman_Exercise02\bin\Debug\Books.mdf
+C:\Users\Asus\Desktop\Comp212_Solutions\Marc-DeGuzman_COMP212-Sec002_Lab05\Marc-DeGuzman_Exercise02\bin\Debug\Books_log.ldf
+C:\Users\Asus\Desktop\Comp212_Solutions\Marc-DeGuzman_COMP212-Sec002_Lab05\Marc-DeGuzman_Exercise02\bin\Debug\Marc-DeGuzman_Exercise02.exe.config
+C:\Users\Asus\Desktop\Comp212_Solutions\Marc-DeGuzman_COMP212-Sec002_Lab05\Marc-DeGuzman_Exercise02\bin\Debug\Marc-DeGuzman_Exercise02.exe
+C:\Users\Asus\Desktop\Comp212_Solutions\Marc-DeGuzman_COMP212-Sec002_Lab05\Marc-DeGuzman_Exercise02\bin\Debug\Marc-DeGuzman_Exercise02.pdb
+C:\Users\Asus\Desktop\Comp212_Solutions\Marc-DeGuzman_COMP212-Sec002_Lab05\Marc-DeGuzman_Exercise02\bin\Debug\EntityFramework.dll
+C:\Users\Asus\Desktop\Comp212_Solutions\Marc-DeGuzman_COMP212-Sec002_Lab05\Marc-DeGuzman_Exercise02\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Asus\Desktop\Comp212_Solutions\Marc-DeGuzman_COMP212-Sec002_Lab05\Marc-DeGuzman_Exercise02\bin\Debug\EntityFramework.xml
+C:\Users\Asus\Desktop\Comp212_Solutions\Marc-DeGuzman_COMP212-Sec002_Lab05\Marc-DeGuzman_Exercise02\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Asus\Desktop\Comp212_Solutions\Marc-DeGuzman_COMP212-Sec002_Lab05\Marc-DeGuzman_Exercise02\obj\Debug\Marc-DeGuzman_Exercise02.csproj.CopyComplete
+C:\Users\Asus\Desktop\Comp212_Solutions\Marc-DeGuzman_COMP212-Sec002_Lab05\Marc-DeGuzman_Exercise02\obj\Debug\Marc-DeGuzman_Exercise02.exe
+C:\Users\Asus\Desktop\Comp212_Solutions\Marc-DeGuzman_COMP212-Sec002_Lab05\Marc-DeGuzman_Exercise02\obj\Debug\Marc-DeGuzman_Exercise02.pdb
+C:\Users\Asus\Desktop\Comp212_Solutions\Marc-DeGuzman_COMP212-Sec002_Lab05\Marc-DeGuzman_Exercise02\obj\Debug\Marc-DeGuzman_Exercise02.csproj.AssemblyReference.cache

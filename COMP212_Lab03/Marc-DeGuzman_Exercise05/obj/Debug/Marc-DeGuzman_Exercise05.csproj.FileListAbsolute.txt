@@ -1,0 +1,7 @@
+C:\Users\Asus\Desktop\Comp212_Solutions\Marc-DeGuzman_COMP212-Sec002_Lab03\Marc-DeGuzman_Exercise05\bin\Debug\Marc-DeGuzman_Exercise05.exe.config
+C:\Users\Asus\Desktop\Comp212_Solutions\Marc-DeGuzman_COMP212-Sec002_Lab03\Marc-DeGuzman_Exercise05\bin\Debug\Marc-DeGuzman_Exercise05.exe
+C:\Users\Asus\Desktop\Comp212_Solutions\Marc-DeGuzman_COMP212-Sec002_Lab03\Marc-DeGuzman_Exercise05\bin\Debug\Marc-DeGuzman_Exercise05.pdb
+C:\Users\Asus\Desktop\Comp212_Solutions\Marc-DeGuzman_COMP212-Sec002_Lab03\Marc-DeGuzman_Exercise05\obj\Debug\Marc-DeGuzman_Exercise05.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\Comp212_Solutions\Marc-DeGuzman_COMP212-Sec002_Lab03\Marc-DeGuzman_Exercise05\obj\Debug\Marc-DeGuzman_Exercise05.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Comp212_Solutions\Marc-DeGuzman_COMP212-Sec002_Lab03\Marc-DeGuzman_Exercise05\obj\Debug\Marc-DeGuzman_Exercise05.exe
+C:\Users\Asus\Desktop\Comp212_Solutions\Marc-DeGuzman_COMP212-Sec002_Lab03\Marc-DeGuzman_Exercise05\obj\Debug\Marc-DeGuzman_Exercise05.pdb

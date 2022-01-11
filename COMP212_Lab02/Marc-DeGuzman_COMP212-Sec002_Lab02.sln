@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Marc-DeGuzman_Exercise01", "Marc-DeGuzman_COMP212-Sec002_Lab02\Marc-DeGuzman_Exercise01.csproj", "{7C58DB05-749D-414D-AE63-43A3619B3625}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Marc-DeGuzman_Exercise02", "Marc-DeGuzman_Exercise02\Marc-DeGuzman_Exercise02.csproj", "{22B725DA-CFE4-43B9-A370-0714A1739A24}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C58DB05-749D-414D-AE63-43A3619B3625}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C58DB05-749D-414D-AE63-43A3619B3625}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C58DB05-749D-414D-AE63-43A3619B3625}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C58DB05-749D-414D-AE63-43A3619B3625}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22B725DA-CFE4-43B9-A370-0714A1739A24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22B725DA-CFE4-43B9-A370-0714A1739A24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22B725DA-CFE4-43B9-A370-0714A1739A24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22B725DA-CFE4-43B9-A370-0714A1739A24}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AEA006D0-90F4-4E81-871C-1A6E2AA33E7F}
+	EndGlobalSection
+EndGlobal

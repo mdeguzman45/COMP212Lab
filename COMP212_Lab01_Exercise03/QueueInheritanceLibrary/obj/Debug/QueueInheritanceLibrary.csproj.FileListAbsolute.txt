@@ -1,0 +1,9 @@
+C:\Users\Asus\Desktop\Comp212_Solutions\Marc-DeGuzman_COMP212_Sec002_Lab01_Exercise03\QueueInheritanceLibrary\bin\Debug\QueueInheritanceLibrary.dll
+C:\Users\Asus\Desktop\Comp212_Solutions\Marc-DeGuzman_COMP212_Sec002_Lab01_Exercise03\QueueInheritanceLibrary\bin\Debug\QueueInheritanceLibrary.pdb
+C:\Users\Asus\Desktop\Comp212_Solutions\Marc-DeGuzman_COMP212_Sec002_Lab01_Exercise03\QueueInheritanceLibrary\bin\Debug\LinkedListLibrary.dll
+C:\Users\Asus\Desktop\Comp212_Solutions\Marc-DeGuzman_COMP212_Sec002_Lab01_Exercise03\QueueInheritanceLibrary\bin\Debug\LinkedListLibrary.pdb
+C:\Users\Asus\Desktop\Comp212_Solutions\Marc-DeGuzman_COMP212_Sec002_Lab01_Exercise03\QueueInheritanceLibrary\obj\Debug\QueueInheritanceLibrary.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\Comp212_Solutions\Marc-DeGuzman_COMP212_Sec002_Lab01_Exercise03\QueueInheritanceLibrary\obj\Debug\QueueInheritanceLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Comp212_Solutions\Marc-DeGuzman_COMP212_Sec002_Lab01_Exercise03\QueueInheritanceLibrary\obj\Debug\QueueInheritanceLibrary.csproj.CopyComplete
+C:\Users\Asus\Desktop\Comp212_Solutions\Marc-DeGuzman_COMP212_Sec002_Lab01_Exercise03\QueueInheritanceLibrary\obj\Debug\QueueInheritanceLibrary.dll
+C:\Users\Asus\Desktop\Comp212_Solutions\Marc-DeGuzman_COMP212_Sec002_Lab01_Exercise03\QueueInheritanceLibrary\obj\Debug\QueueInheritanceLibrary.pdb

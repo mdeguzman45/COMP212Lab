@@ -1,0 +1,5 @@
+C:\Users\Asus\Desktop\Comp212_Solutions\Marc-DeGuzman_COMP212_Sec002_Lab01_Exercise03\LinkedListLibrary\bin\Debug\LinkedListLibrary.dll
+C:\Users\Asus\Desktop\Comp212_Solutions\Marc-DeGuzman_COMP212_Sec002_Lab01_Exercise03\LinkedListLibrary\bin\Debug\LinkedListLibrary.pdb
+C:\Users\Asus\Desktop\Comp212_Solutions\Marc-DeGuzman_COMP212_Sec002_Lab01_Exercise03\LinkedListLibrary\obj\Debug\LinkedListLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Comp212_Solutions\Marc-DeGuzman_COMP212_Sec002_Lab01_Exercise03\LinkedListLibrary\obj\Debug\LinkedListLibrary.dll
+C:\Users\Asus\Desktop\Comp212_Solutions\Marc-DeGuzman_COMP212_Sec002_Lab01_Exercise03\LinkedListLibrary\obj\Debug\LinkedListLibrary.pdb
